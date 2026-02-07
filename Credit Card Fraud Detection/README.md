@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Logistic Regression
+# Credit Card Fraud Detection 
 
 This project implements a Machine Learning model to detect fraudulent credit card transactions. The dataset is highly imbalanced, so **Under-Sampling** is used to create a balanced dataset for training the model.
 
@@ -50,5 +50,4 @@ To run this project, you need the following libraries:
 2. Run the Jupyter Notebook or Python script.
 3. The script will clean the data, balance it, and train the Logistic Regression model.
 
----
-Created by [Your Name/Username]
+
