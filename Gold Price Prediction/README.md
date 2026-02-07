@@ -32,4 +32,4 @@ This project predicts gold prices using historical data and machine learning tec
 - Predicts gold prices based on historical data  
 
    ```bash
-   git clone https://github.com/Shashank497/Gold-Price-Prediction-
+   git clone https://github.com/Shashank497/ML-DL-Models/Gold-Price-Prediction-
